@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 50px;
+    padding: 50px;
+    background-image: url('Basketball fans.jpg'); /* Reemplaza con la ruta de tu imagen de baloncesto */
+    background-size: contain;
+    background-position: center;
+    color: #14ecec; /* Color de texto blanco */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 0, 0, 0.7); /* Fondo semi-transparente */
+    border-radius: 10px;
+}
+
+h1 {
+    color: #eeff33; /* Azul claro */
+}
+
+p {
+    line-height: 2.0
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Esquinas redondeadas para las imágenes */
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #e1ff1e;
+}
+
+ul {
+    color: #00b7ea;
+}
+
+footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #bebebe; /* Línea divisoria superior */
+    color: #bebebe; /* Color de texto gris claro en el pie de página */
+}
+
+a {
+    color: #ceff1e; /* Color de enlace azul claro */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayar al pasar el mouse sobre el enlace */
+    color: #90a10d; /* Cambiar el color al pasar el mouse sobre el enlace */
+}
